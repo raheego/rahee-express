@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/raheego/rahee-express/issues"
   },
-  "homepage": "https://github.com/raheego/rahee-express#readme"
+  "homepage": "https://github.com/raheego/rahee-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
