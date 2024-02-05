@@ -1,0 +1,23 @@
+{
+  "name": "rahee-express",
+  "version": "0.1.0",
+  "description": "js server ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raheego/rahee-express.git"
+  },
+  "keywords": [
+    "js",
+    "server"
+  ],
+  "author": "raheego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raheego/rahee-express/issues"
+  },
+  "homepage": "https://github.com/raheego/rahee-express#readme"
+}
